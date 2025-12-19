@@ -1,0 +1,5 @@
+{
+  "name": "UV-Vis Spectrum Compare",
+  "description": "Analyze and compare UV-Vis absorption spectra from multiple water samples. Features include Excel file parsing, interactive visualization, statistical similarity analysis, and AI-driven expert interpretation.",
+  "requestFramePermissions": []
+}
