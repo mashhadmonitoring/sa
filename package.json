@@ -4,7 +4,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": ".",
+  "homepage": "https://mashhadmonitoring.github.io/sa/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
